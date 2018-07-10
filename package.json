@@ -1,0 +1,16 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "A short talk on web components",
+  "main": "index.js",
+  "scripts": {
+    "build": "cleaver slides.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cleaver": "^0.8.7"
+  }
+}
